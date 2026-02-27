@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMzaJldfrUM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DmitryAD\\RiderProjects\\TaskTrackerApp\\TaskTrackerApp.Application\\TaskTrackerApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\firebase.database\\1.0.0\\firebase.database.1.0.0.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.13\\microsoft.data.sqlite.core.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.13\\microsoft.entityframeworkcore.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.13\\microsoft.entityframeworkcore.abstractions.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.13\\microsoft.entityframeworkcore.analyzers.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.13\\microsoft.entityframeworkcore.relational.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.13\\microsoft.entityframeworkcore.sqlite.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.13\\microsoft.entityframeworkcore.sqlite.core.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.13\\microsoft.extensions.caching.abstractions.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.13\\microsoft.extensions.caching.memory.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.13\\microsoft.extensions.configuration.abstractions.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.13\\microsoft.extensions.dependencyinjection.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.13\\microsoft.extensions.dependencyinjection.abstractions.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.13\\microsoft.extensions.dependencymodel.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.logging\\9.0.13\\microsoft.extensions.logging.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.13\\microsoft.extensions.logging.abstractions.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.options\\9.0.13\\microsoft.extensions.options.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.13\\microsoft.extensions.primitives.9.0.13.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\newtonsoft.json\\8.0.3\\newtonsoft.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\rx-core\\2.2.5\\rx-core.2.2.5.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\rx-interfaces\\2.2.5\\rx-interfaces.2.2.5.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\rx-linq\\2.2.5\\rx-linq.2.2.5.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\rx-main\\2.2.5\\rx-main.2.2.5.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\rx-platformservices\\2.2.5\\rx-platformservices.2.2.5.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\DmitryAD\\.nuget\\packages\\system.text.json\\9.0.13\\system.text.json.9.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Firebase.Database 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Firebase.Database",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 8.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Rx-Core 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Rx-Core",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Rx-Interfaces 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Rx-Interfaces",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Rx-Linq 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Rx-Linq",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Rx-PlatformServices 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Rx-PlatformServices",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

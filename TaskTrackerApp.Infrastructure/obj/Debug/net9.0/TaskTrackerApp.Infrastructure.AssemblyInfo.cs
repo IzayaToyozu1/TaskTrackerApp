@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TaskTrackerApp.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TaskTrackerApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+832c50318d9f552ebb13cc33a84e8a45e3177ad1")]
-[assembly: System.Reflection.AssemblyProductAttribute("TaskTrackerApp.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TaskTrackerApp.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("TaskTrackerApp.Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TaskTrackerApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

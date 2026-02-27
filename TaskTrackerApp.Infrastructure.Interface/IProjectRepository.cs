@@ -1,6 +1,6 @@
 ﻿using TaskTrackerApp.Domain.Model;
 
-namespace TaskTrackerApp.Application.Interface;
+namespace TaskTrackerApp.Infrastructure.Interface;
 
 public interface IProjectRepository
 {

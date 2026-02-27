@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TaskTrackerApp.Domain\TaskTrackerApp.Domain.csproj" />
+      <ProjectReference Include="..\TaskTrackerApp.Infrastructure.Interface\TaskTrackerApp.Infrastructure.Interface.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Firebase.Database" Version="1.0.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.13" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.13">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
+</Project>

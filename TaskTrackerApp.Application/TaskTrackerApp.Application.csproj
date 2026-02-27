@@ -7,11 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\TaskTrackerApp.Domain\TaskTrackerApp.Domain.csproj" />
+      <Folder Include="Dtos\" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Services\" />
+      <ProjectReference Include="..\TaskTrackerApp.Infrastructure.Interface\TaskTrackerApp.Infrastructure.Interface.csproj" />
+      <ProjectReference Include="..\TaskTrackerApp.Infrastructure\TaskTrackerApp.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

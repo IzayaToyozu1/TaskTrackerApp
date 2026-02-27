@@ -10,8 +10,4 @@
       <ProjectReference Include="..\TaskTrackerApp.Domain\TaskTrackerApp.Domain.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Services\" />
-    </ItemGroup>
-
 </Project>

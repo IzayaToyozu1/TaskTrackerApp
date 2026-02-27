@@ -4,6 +4,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTrackerApp.Domain", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTrackerApp.Application.Interface", "TaskTrackerApp.Application.Interface\TaskTrackerApp.Application.Interface.csproj", "{47D6CB5E-38C8-4560-8BC8-5FE88F3DA451}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTrackerApp.Application", "TaskTrackerApp.Application\TaskTrackerApp.Application.csproj", "{9C909399-AF24-4582-AA3A-A6378D0BBDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTrackerApp.Infrastructure.Interface", "TaskTrackerApp.Infrastructure.Interface\TaskTrackerApp.Infrastructure.Interface.csproj", "{A90ECAA5-4947-4155-8E5A-0540689C1B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTrackerApp.Infrastructure", "TaskTrackerApp.Infrastructure\TaskTrackerApp.Infrastructure.csproj", "{B27D423A-509E-4F3C-A653-6E6A718D28D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{47D6CB5E-38C8-4560-8BC8-5FE88F3DA451}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47D6CB5E-38C8-4560-8BC8-5FE88F3DA451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47D6CB5E-38C8-4560-8BC8-5FE88F3DA451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C909399-AF24-4582-AA3A-A6378D0BBDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C909399-AF24-4582-AA3A-A6378D0BBDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C909399-AF24-4582-AA3A-A6378D0BBDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C909399-AF24-4582-AA3A-A6378D0BBDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90ECAA5-4947-4155-8E5A-0540689C1B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90ECAA5-4947-4155-8E5A-0540689C1B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90ECAA5-4947-4155-8E5A-0540689C1B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90ECAA5-4947-4155-8E5A-0540689C1B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27D423A-509E-4F3C-A653-6E6A718D28D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27D423A-509E-4F3C-A653-6E6A718D28D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27D423A-509E-4F3C-A653-6E6A718D28D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27D423A-509E-4F3C-A653-6E6A718D28D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
